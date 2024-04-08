@@ -2,7 +2,7 @@
 
 ## Datasets
 
-> Please first download the datasets [here](https://www.jianguoyun.com/p/DY8iIAsQ2t_lCBjK3oUEIAA) and extract them into `datasets/` directory.
+> Please first download the datasets (https://pan.baidu.com/s/12DZzgq_z4QeGqwUzTdER2w   password：1111)) and extract them into `datasets/` directory.
 
 Initial datasets WN31-15K and DBP-15K are from [OpenEA](https://github:com/nju-websoft/OpenEA) and [JAPE](https://github.com/nju-websoft/JAPE).
 
